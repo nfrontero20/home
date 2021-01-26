@@ -9,11 +9,11 @@ const mainBody = {
   firstName: "Nicole",
   middleName: "",
   lastName: "Frontero",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about improving healthcare through statistics and data science. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/nfrontero20",
     },
     {
       image: "fa-facebook",
@@ -25,7 +25,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/nicolefrontero/",
     },
     {
       image: "fa-twitter",
