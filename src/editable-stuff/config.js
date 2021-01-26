@@ -59,9 +59,9 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  gitHubUsername: "nfrontero20", //i.e."johnDoe12Gh"
+  reposLength: 5,
+  specificRepos: ["trail-map", "satellites", "predicting-diamond-price", "predicting-heart-failure", "amherst-history"],
 };
 
 // Leadership SECTION
