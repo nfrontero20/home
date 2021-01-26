@@ -96,7 +96,7 @@ const experience = {
 
 // PUBLICATIONS SECTION
 const publications = {
-  show: false,
+  show: true,
   heading: "Publications",
   message:
     "Add message if you want",
