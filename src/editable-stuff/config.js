@@ -93,6 +93,32 @@ const experience = {
   }
 };
 
+
+// Publications SECTION
+const leadership = {
+  show: false,
+  heading: "Publications",
+  message:
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
+  images: [
+    { 
+      img: require("../editable-stuff/Brain-logo.png"), 
+      label: "Disentangling vulnerability, state and trait features of neurocognitive impairments in depression", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("../editable-stuff/Brain-logo.png"), 
+      label: "Characterizing a snapshot of perceptual experience", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+  ],
+  imageSize: {
+    width:"615",
+    height:"450"
+  }
+};
+
+
 // Leadership SECTION
 const leadership = {
   show: false,
@@ -157,4 +183,4 @@ const getInTouch = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, experience, skills, leadership, getInTouch };
+export { navBar, mainBody, about, repos, experience, skills, leadership, publications, getInTouch };
