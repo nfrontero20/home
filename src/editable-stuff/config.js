@@ -64,7 +64,7 @@ const repos = {
   specificRepos: ["trail-map", "satellites", "predicting-diamond-price", "predicting-heart-failure", "amherst-history"],
 };
 
-// Experience SECTION
+// EXPERIENCE SECTION
 const experience = {
   show: true,
   heading: "Experience",
@@ -94,22 +94,22 @@ const experience = {
 };
 
 
-// Publications SECTION
-const leadership = {
+// PUBLICATIONS SECTION
+const publications = {
   show: false,
   heading: "Publications",
   message:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
+    "Add message if you want",
   images: [
     { 
       img: require("../editable-stuff/Brain-logo.png"), 
       label: "Disentangling vulnerability, state and trait features of neurocognitive impairments in depression", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+      paragraph: "As a Data Science Intern at McLean Hospital, I contributed to a project studying the XX.  I prepared the data set for analysis by transforming the raw data from the National Institute of Mental Health into a clean and organized format.  The results of the project are now published in Oxford Academy's Brain: A Journal of Neurology." 
     },
     { 
       img: require("../editable-stuff/Brain-logo.png"), 
       label: "Characterizing a snapshot of perceptual experience", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+      paragraph: "I engaged in an independent study course which involved serving as a research assistant in Professor Michael Cohen's lab (Amherst College).  I participated in study design, recruited participants, and collected data through guiding participants through experimental paradigm.  I also presented at the 2019 Vision Sciences Society Conference.  The results from our research has been published in the American Psychology Association's Journal of Experimental Psychology: General." 
     },
   ],
   imageSize: {
