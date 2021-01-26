@@ -16,20 +16,12 @@ const mainBody = {
       url: "https://github.com/nfrontero20",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
       image: "fab fa-researchgate",
       url: "https://www.researchgate.net/profile/Nicole_Frontero",
     },
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/nicolefrontero/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
     },
   ],
 };
