@@ -64,6 +64,35 @@ const repos = {
   specificRepos: ["trail-map", "satellites", "predicting-diamond-price", "predicting-heart-failure", "amherst-history"],
 };
 
+// Experience SECTION
+const experience = {
+  show: true,
+  heading: "Experience",
+  message:
+    "I'm fortunate to have had the opportunity to intern and do research with scientists in domains such as cognitive psychology, clinical psychology, and public health.",
+  images: [
+    { 
+      img: require("../editable-stuff/Amherst-College-logo.png"), 
+      label: "Psychology Research Assistant", 
+      paragraph: "September 2018 - December 2019" 
+    },
+    { 
+      img: require("../editable-stuff/McLean-hospital-logo.png"), 
+      label: "Data Science Intern", 
+      paragraph: "June 2019 - July 2019" 
+    },
+    { 
+      img: require("../editable-stuff/McLean-hospital-logo.png"), 
+      label: "Clinical Research Intern", 
+      paragraph: "June 2018 - August 2018" 
+    },
+  ],
+  imageSize: {
+    width:"615",
+    height:"450"
+  }
+};
+
 // Leadership SECTION
 const leadership = {
   show: false,
@@ -128,4 +157,4 @@ const getInTouch = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch };
+export { navBar, mainBody, about, repos, experience, skills, leadership, getInTouch };
