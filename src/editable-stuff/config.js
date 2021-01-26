@@ -20,8 +20,8 @@ const mainBody = {
       url: "https://www.facebook.com/hashirshoaeb",
     },
     {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      image: "fab fa-researchgate",
+      url: "https://www.researchgate.net/profile/Nicole_Frontero",
     },
     {
       image: "fa-linkedin",
