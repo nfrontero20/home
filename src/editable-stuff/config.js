@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/profile-picture.png"),
   imageSize: 375,
   message:
-    "Hi!  My name is Nicole Frontero.  I graduated in December 2020 from Amherst College, where I studied Statistics and Psychology.  I dream of a world in which everyone has the tools, resources, and support to live a life of joy, health, and happiness.  I aspire to make this dream a reality by tackling difficult science and health concerns using statistics and data science.",
+    "Hi! My name is Nicole Frontero. I graduated in December 2020 from Amherst College with degrees in Statistics and Psychology. I’m passionate about making a difference in the lives of others through advancing healthcare. My goal is to pursue this passion by tackling difficult science and health concerns using statistics and data science.",
     
   resume: require("../editable-stuff/resume.pdf"),
 };
