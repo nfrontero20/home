@@ -61,7 +61,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "nfrontero20", //i.e."johnDoe12Gh"
   reposLength: 5,
-  specificRepos: ["trail-map", "satellites", "predicting-diamond-price", "predicting-heart-failure", "amherst-history"],
+  specificRepos: [],
 };
 
 // EXPERIENCE SECTION
